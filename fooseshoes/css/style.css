@@ -1,0 +1,461 @@
+.main-wrapper {
+    font-family: 'Aller';
+    font-size:12px;
+}
+
+
+.search-icon-wrapper input{
+    float: right;
+    background-image: url('../images/logos/search-icon.png');
+    background-color:#242424;
+    background-repeat: no-repeat;
+    /* position: 10px 10px; */
+    position:50% 50%;
+    /* width: 20px; */
+    width: 100%;
+    height: 20px;
+    border:none;
+    cursor: pointer;
+    margin-top: 15px;
+   
+}
+
+.ht-right a{
+    text-decoration: none;
+    color: #7e7e7e;
+}
+
+
+.hb-left li{
+    padding-left: 4.0677%;
+    padding-right: 4.0677%;
+   /* padding-left:24px; */
+   /* padding-right:24px; */
+   border-right: 2px solid #eeeeee; 
+   float:left;
+}
+
+.hb-left li:last-child{
+    border-right:none;
+}
+
+.hb-left a{
+    text-decoration: none;
+    display: block;
+    color: black;
+}
+
+.hb-right ul{
+    float: left;
+    list-style:none;
+    padding-top:21px;
+    padding-bottom: 18px;
+}
+
+.hb-right ul li{
+    padding-right: 8px;
+    float: left;
+}
+
+.hb-right input{
+    border-radius: 4px;
+    font-size:10px;
+    border:none;
+    width: 20px;
+    color: #ffffff;
+    height: 20px;
+    cursor: pointer;
+}
+
+.hb-right .second input{
+    background-color: #57c5a0;
+}
+
+.hb-right .first input{
+    background-color: #adadad;
+}
+
+.hb-right .first{  
+    padding-right: 23px;
+}
+
+.hb-right .second{
+    border-left: 2px solid #cccccc;
+    padding-left: 23px;
+}
+
+
+.fbs-content{
+    line-height: 61px;
+}
+.fbs-content, .fbt-content{
+    font-size:35px;
+    /* line-height: 40px; */
+}
+
+.fbt-content{
+    padding-bottom: 17px;
+}
+
+.fb-content .fbfi-content{
+    padding-top: 19px;
+    
+    padding-bottom: 85px;
+}
+
+.fbfi-content{
+    list-style: none;
+}
+
+.fbfi-content li{
+    float: left;
+    padding-right: 2px;
+}
+
+.second-body ul{   
+    list-style: none;
+    width: 100%;
+    
+}
+
+.second-body ul li{
+    position:relative;
+    /* width: 180px; */
+    width:18.75%;
+    /* padding-left: 10px; */
+   
+    float: left;
+    padding-left: 1.0416%;
+    
+}
+
+.second-body a{
+    padding-top: 20px;
+    color: #979797;
+    display: block;
+    text-decoration:none;
+    
+}
+.second-body .nbf{
+    width: 100%;
+    float: left;
+    text-align:center;
+    font-size: 18px;
+    font-family: "Aller";
+    line-height: 50px;
+}
+
+.second-body .nbs{
+    width: 100%;
+    float: left;
+    text-align:center;
+    font-size: 12px;
+    font-family: "Aller";
+    padding-bottom:25px;
+}
+
+.second-body .image{
+    position: absolute;
+    top: 8px;
+    left: 10px;
+    display: none;
+}
+.second-body .active{
+    display: block;
+}
+
+.second-body .nav-active{
+    color:#ffffff;
+}
+
+  
+.third-body-list{
+    width: 100%;
+    list-style: none;
+}
+
+.third-body li{
+    float: left;
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    padding-left: 1.0416%;
+    padding-right: 1.0416%;
+}
+
+.third-body a{
+    opacity: 0.88;
+    filter: alpha(opacity=88); 
+    /* left:60px; */
+    left: 20%;
+    position: relative;
+    top:-120px;
+    /* width: 180px; */
+    width: 60%;
+    line-height: 60px;
+    text-align:center;
+    text-decoration: none;
+    display: block;
+    color: #ffffff;
+    background-color: #242424;
+}
+
+.fourth-body input{
+    cursor: pointer;
+    /* width: 100px; */
+    width: 100%;
+    height: 30px;
+    border-color: #bcb5a7;
+    background-color:#ebe7df;
+    color: #bcb5a7;
+}
+
+.shoes-images .imageDesc{
+    /* width: 300px; */
+    width: 31.25%;
+    float: left;
+    background-color:#ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+    position: relative;
+    /* background-color: red; */
+}
+
+.shoes-images .Desc{
+    line-height: 49px;
+    /* padding-left: 93px; */
+    text-align: center;
+    font-size: 18px;
+    font-family: "Aller";
+    color: rgb(36, 36, 36);
+    border-top: 2px solid #cccccc;
+}
+
+  
+
+.fbfi-content a{
+    display: block;
+}
+
+.fourth-body .fbfi-content{
+    padding-left: 93px;
+    height: 49px;
+}
+
+.fourth-body .price-info{
+    width:66px;
+    height: 66px;
+    background-color: #57c5a0;
+    position: absolute;
+    color: #ffffff;
+    left: 12px;
+    text-align: center;
+    bottom:0px;
+    font-size: 13px;
+    font-family: "Aller";
+    line-height: 66px;
+}
+
+.fourth-body .on-sale{
+    width:66px;
+    height: 66px;
+    background-color: #242424;
+    position: absolute;
+    color: #ffffff;
+    right: 12px;
+    text-align: center;
+
+    /* display: block; */
+    top:0px;
+    font-size: 13px;
+    font-family: "Aller";
+    line-height: 66px;
+    font-weight: bold;
+}
+
+.fourth-body .out{
+    background-color: #f27e4b;
+    line-height: 15px;
+    padding-top: 20px;
+    height: 46px;
+    
+}
+
+.fifth-left{
+    list-style: none;
+    float: left;
+}
+
+.fifth-left li{
+    margin-left: 10px;
+    margin-right: 10px;
+    float: left;
+    background-color: #dfdbd4;
+    padding-left: 15px;
+    padding-right: 26px;
+    width: 179px;
+    padding-top: 18px;
+    padding-bottom: 33px;
+
+}
+
+.fifth-left span{
+    font-weight: bold;
+    line-height: 44px;
+}
+
+.fifth-left p{
+    text-align: justify;
+    line-height: 20px;
+   
+}
+
+.fifth-right{
+    float: right;
+    padding-left: 17px;
+    width: 443px;
+    /* padding-right: 39px; */
+    background-color: #dfdbd4;
+}
+
+.fifth-right .header-text{
+    line-height: 44px;
+    padding-top: 18px;
+    font-weight: bold;
+    font-family: "Aller";
+    font-size: 14px;
+
+    /* background-color: red; */
+}
+
+  
+
+.fifth-right .lu-text, .ll-text{
+    /* background-color: blue; */
+    /* width: 100%; */
+    float: left;    
+    width: 443px;
+    padding-bottom: 14px;
+}
+
+
+.ll-text{
+    padding-bottom: 106px;
+}
+
+.fifth-right .image{
+    float: left;
+}
+
+.fifth-right .text-only{
+    float: right;
+    width: 361px;
+    padding-right: 31px;
+    padding-left: 13px;
+}
+
+.fifth-right .t1{
+    float: left;
+    font-weight: bold;
+}
+
+.fifth-right .t1,.t2{
+    /* width: 391px; */
+    float: left;
+}
+
+.fifth-right .t2{
+    font-size: 12px;
+}
+.pftl-text p{
+    text-align:justify;
+}
+
+.pftm-text{
+    list-style: none;
+}
+
+.pftm-text .mention{
+    color: #50b08f;
+}
+
+.pftm-text p{
+    text-align:justify; 
+}
+
+.pftm-text .time-frame{
+    line-height: 42px;
+}
+
+.pftr-image-wrapper{
+    float: left;
+    list-style: none;
+}
+
+.pftr-image-wrapper li{
+    float: left;
+    padding-top: 10px;
+    padding-right: 8px;
+}
+
+.pfb-left .text-input{
+    padding-left: 14px;
+    background-color: #2e2e2e;
+    border: none;
+    width: 200px;
+    line-height: 36px;
+}
+
+.pfb-left .submit-button{
+    width: 36px;
+    float: right;
+    height: 36px;
+    border: none;
+    cursor: pointer;
+    background-image: url('../images/logos/SendBtn.png');
+}
+
+
+.pfb-right li{
+    float:left;
+    padding-right: 8px;
+    width: 38px;
+}
+
+.pfb-right li:last-child{
+    padding-right: 0px;
+}
+
+.pfb-right a{
+    /* background-color: #2e2e2e; */
+    display: block;
+}
+
+.f-left li{
+    color: #979797;
+    /* line-height: 6px; */
+}
+
+.f-right li{
+    padding-left: 4px;
+    padding-right:4px;
+    float: left;
+}
+
+.f-right a{
+    line-height: 83px;
+    display: block;
+    color: #7b7b7b;
+    text-decoration: none;
+}
+
+.f-right span{
+    color: #7b7b7b;
+    line-height: 83px;
+}
+
+@media(max-width:375px){
+    .f-right{
+        font-size: 25px;
+    }
+
+}

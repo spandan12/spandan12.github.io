@@ -1,0 +1,301 @@
+.clearfix::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
+
+  
+
+.header-top{
+    background-color:#242424;
+}
+
+.header,.footer, .pre-footer, .main-body{
+    min-width: 1000px;
+}
+
+.wrapper{
+    
+    width: 60em;
+    margin: 0 auto; 
+}
+
+
+.image-wrapper{
+    float: left;
+    /* width: 180px; */
+    width: 18.75%;
+    height: 45px;
+    /* background-color: green; */
+}
+
+.ht-right{
+    color: #7e7e7e;
+    float: right;
+    /* width: 190px; */
+    width: 19.7917%;
+    /* background-color: blue; */
+    /* height: 45px; */
+}
+
+.search-icon-wrapper{
+    width: 10.5263%;
+    /* padding-top: 22.5px;
+    padding-bottom: 22.5px; */
+    float: left;
+}
+
+.login-register{
+    float: right;   
+    line-height: 45px;
+}
+
+
+.header-bottom {
+    background-color: #ffffff;
+
+}
+
+.hb-left{
+    float: left;
+    /* 590px; */
+    width:61.4583%;
+    line-height:60px;
+    list-style: none;
+}
+
+
+.hb-right{
+    float: right;
+    /* background-color: red; */
+    width: 19.7916%;
+    /* width: 190px; */
+    height: 60px;
+}
+
+.first-body{
+    background-image: url('../images/logos/Bg.png');
+}
+
+.fbf-content, .fbs-content, .fbt-content, .fbfi-content{
+    float: left;
+    width: 440px;
+}
+
+.fbfo-content{
+    float: left;
+    width: 300px;
+    margin-right: 132px;
+    line-height: 20px;
+}
+
+.fb-content{
+    padding-left: 521px;
+    padding-top: 70px;
+}
+
+.second-body{
+    background-color: #2e2e2e;
+}
+
+.second-body .wrapper{
+    background-image: url('../images/navbg.png');
+    background-repeat: no-repeat;
+    background-position: 0px 6px;
+}
+  
+.third-body{
+    background-color: #242424;
+}
+.third-body .wrapper{
+    padding-top: 24px;
+    /* padding-bottom: 24px; */
+}
+
+
+
+.fourth-body{
+    background-color: #ebe7df;
+}
+
+.fourth-header{
+    /* padding-left: 10px;
+    padding-right: 10px; */
+    /* width: 940px; */
+    width: 97.9166%;
+    padding-left: 1.04166%;
+    padding-right: 1.04166%;
+    float: left;
+    /* background-color: blue; */
+    /* background-color: blue; */
+}
+
+.upper-fourth{
+    width: 100%;
+    /* background-color: blue; */
+}
+
+.lower-fourth{
+    width: 100%;
+    margin-bottom: 47px;    
+}
+
+.fourth-header .header-fleft{
+    float: left;
+    font-size: 25px;
+    line-height: 87px;
+    font-family: "Aller";
+    color: rgb(36, 36, 36);
+}
+
+  
+
+.fourth-header .header-fright{
+    padding-top: 28px;
+    padding-bottom: 28px;
+    float: right;
+    width: 10.4166%;
+}
+
+.fourth-header .shoes-images{
+    float: left;
+    width: 100%;
+}
+
+.fifth-body{
+    background-color: #ebe7df;
+}
+
+.fifth-body .wrapper{
+    padding-top: 24px;
+    padding-bottom: 24px;
+    border-top: 2px solid #bcb5a7;
+}
+
+
+
+.pfooter-top{
+    background-color:#242424;
+    border-bottom:2px solid #1c1c1c;
+}
+
+.pfooter-top{  
+    color: #7d7d7d;
+    background-color: #242424;
+}
+
+.pfooter-top .wrapper{
+    padding-top:26px;
+    /* padding-right: 37px; */
+    
+}
+
+
+.pft-left{
+    /* padding-top:26px; */
+    /* padding-left: 50px; */
+    padding-left: 5.20833%;
+    float:left;
+    /* padding-right: 40px; */
+    padding-right: 4.1666%;
+    /* width: 260px; */
+    width: 27.0833%;
+    padding-bottom: 60px;
+}
+
+.pftl-header, .pftm-header{
+    line-height: 60px;
+}
+
+.pft-middle{
+    /* padding-top:26px; */
+    width: 27.0833%;
+    /* width: 260px; */
+    float: left;
+    /* padding-bottom:7px; */
+}
+
+.pft-right{
+    /* padding-top:26px; */
+    float: left;
+    padding-left: 5.8333%;
+    /* padding-left: 56px; */
+    /* width: 252px; */
+    width: 26.25%;
+}
+
+.pftr-header{
+    line-height: 50px;
+}
+
+.pfooter-bottom{
+    background-color:#242424;
+}
+
+.pfooter-bottom .wrapper{
+    padding-top: 37px;
+    padding-bottom: 45px;
+}
+
+
+
+
+.pfb-left{
+    
+    /* height: 100px; */
+    float: left;
+    /* padding-left: 50px;    */
+    padding-left: 5.2083%;
+    /* width: 250px; */
+    width: 26.0416%;
+}
+
+
+
+
+.pfb-right{
+    list-style: none;
+    /* padding-right: 50px; */
+    padding-right:5.2083%;
+    /* width: 262px; */
+    float: right;
+}
+
+
+.footer{
+    background-color: #2e2e2e;
+}
+
+.f-left{
+    padding-top: 28px;
+    padding-bottom:28px;
+    float: left;
+    list-style: none;
+}
+
+.f-right{
+    /* background-color: red; */
+    float: right;
+    list-style: none;
+}
+
+
+@media(max-width:375px){
+
+    .header .wrapper{
+        width:100%;
+        min-width: 320px;
+    }
+    .first-body{
+        display:none;
+    }
+
+    .f-left{
+        display: none;
+    }
+    
+    .f-right{
+        width: 100%;    
+    }
+   
+}
