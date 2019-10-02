@@ -458,4 +458,26 @@
         font-size: 25px;
     }
 
+    .search-icon-wrapper input{
+        /* display: none; */
+    }
+
+    .third-body li{
+        float: left;
+        /* padding-left: 10px;
+        padding-right: 10px; */
+        padding-left: 15%;
+        padding-right: 15%;
+        width: 70%;
+    }
+
+    .third-body li img{
+        width: 100%;
+    }
+
+    .third-body li a{
+        top:-230px;
+        font-size: 30px;
+    }
+
 }

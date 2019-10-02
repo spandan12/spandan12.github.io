@@ -286,6 +286,27 @@
         width:100%;
         min-width: 320px;
     }
+
+    .image-wrapper{
+        /* padding-left: 20%; */
+        /* float: left; */
+        width: 50%;
+        float: right;
+    }
+
+    .image-wrapper img{
+        width: 60%;
+
+    }
+
+    .search-icon-wrapper{
+        float: left;
+        width: 50%;
+    }
+
+    
+
+
     .first-body{
         display:none;
     }
