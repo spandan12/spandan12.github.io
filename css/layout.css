@@ -1,89 +1,12 @@
-
-.wrapper{
-    width: 794px;
-    margin:0 auto;
-}
-
-.left-wrapper{
-    width: 342px;
-    padding-left: 30px;
-    background-color: #4a3f41;
-    float: left;
-    color: #ffffff;
-    padding-bottom: 50px;
-}
-
-.right-wrapper{
-    padding-left: 30px;
-    width: 392px;
-    float: right;
-    color: #4a3f41;
-}
-
-.name{
+table {
+    font-family: arial, sans-serif;
+    border-collapse: collapse;
     width: 100%;
-    float: left;
-    padding-top: 15px;
-    font-size: 35px;
-    line-height: 30px;
+  }
+  
+td, th {
+border: 1px solid #dddddd;
+text-align: left;
+padding: 8px;
 }
-
-.profession{
-    width: 100%;
-    float: left;
-    line-height: 40px;
-    font-size:12px;
-    font-style: oblique;
-    /* padding-left: 10px; */
-    /* padding-top: 10px; */
-}
-
-.profile{
-    width: 100%;
-    float:left;
-}
-
-.right-wrapper .normal_text{
-    color: #4a3f41;
-}
-
-.right-wrapper .in_text{
-    color: #4a3f41;
-}
-
-.div_head{
-    width: 100%;
-    float: left;
-    line-height: 40px;
-    font-size: 25px;
-    font-weight: bold;
-}
-
-
-
-.normal_text{
-    padding-top: 10px;
-    width: 95%;
-    float: left;
-    font-size: 13px;
-    text-align: justify;
-    line-height: 20px;
-    font-weight: bold;
-    color: #ffffffe7;
-}
-
-.no-padding{
-    font-weight: normal;
-    padding-top: 0px;
-}
-
-.in_text{
-    width: 100%;
-    float: left;
-    font-weight:normal;
-    color: #ffffffcc;
-    font-size: 10px;
-    text-align: justify;
-    line-height: 15px;
-    font-style: oblique;
-}
+  
