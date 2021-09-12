@@ -57,8 +57,11 @@
 .lower-wrapper{
   margin-top: 50px;
   border-radius:50px;
-  background-color: #f5f5f5;
-  
+  background-color: #f5f5f5; 
+}
+
+.portfolio-wrapper{
+  height: auto;
 }
 
 .lower-display{
@@ -210,6 +213,7 @@
 .resume-element{
   padding: 15px 20px 10px;
   margin-left: 20px;
+  width: 70%;
   margin-bottom: 20px;
   background-color: #fff;
   border-left: 2px solid #7e6df6;
@@ -221,6 +225,7 @@
 }
 
 .element-title{
+  width: 100%;
   display: block;
   font-size: 16px;
   line-height: 1.2em;
