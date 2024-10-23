@@ -1,8 +1,8 @@
 ---
 layout: post
-date: 2015-10-22 15:59:00-0400
+date: August, 2022
 inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+Started PhD in Computing and Information Sciences at Rochester Institute of Technology, under the supervision of [Prof. Qi Yu](https://www.rit.edu/mining/). 
