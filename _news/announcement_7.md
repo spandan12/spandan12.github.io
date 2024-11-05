@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-I have received competitive  <b> NeurIPS 2024 Scholar Award </b> from Neurips to attend conference at Vancover, Canada.
+I have received competitive  <b> NeurIPS 2024 Scholar Award </b> to attend Neurips conference at Vancover, Canada.

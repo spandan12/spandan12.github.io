@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Selected to participate in Grad Cohort for Women (CRA-WP) in Minneapolis. :sparkles:
+I was selected to participate in Grad Cohort for Women (CRA-WP) in Minneapolis. :sparkles:
