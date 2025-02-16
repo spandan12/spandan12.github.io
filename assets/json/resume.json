@@ -12,7 +12,7 @@
       "location": "Rochester, New York",
       "area": "Computing and Information Sciences",
       "studyType": "PhD",
-      "startDate": "August 2022",
+      "startDate": "Aug 2022",
       "endDate": "present"
     },
     {
@@ -20,8 +20,8 @@
       "location": "Kathmandu, Nepal",
       "area": "Computer Engineering",
       "studyType": "Undergraduate",
-      "startDate": "November 2015",
-      "endDate": "September 2018"
+      "startDate": "Nov 2015",
+      "endDate": "Sept 2018"
     }
   ],
   "experience": [
@@ -30,21 +30,14 @@
       "position": "Research Assistant",
       "url": "https://www.rit.edu/mining/",
       "startDate": "2022-08-22",
-      "endDate": "present",
-      "research activities": ["Developed evidential framework to allocate fine-grained evidence for hierarchical novelty detection problem.",
-      "Developed state-based framework to capture hierarchical dependencies for the hierarchical novelty detection problem.",
-      "Developed Bayesian framework to re-calibrate the vision foundation models fine-tuned using parameter efficient methods.",
-      "Developed metrics to quantify uncertainty in the hallucination of large language models.",
-      "Developing R sandbox for a data science platform for students."
-    ]
+      "endDate": "present"
     },
     {
-      "name": "Software Engineer",
-      "position": "Research Assistant",
+      "name": "Leapfrog Technology",
+      "position": "Software Engineer",
       "url": "https://www.lftechnology.com/",
       "startDate": "2022-09-10",
-      "endDate": "2022-05-22",
-      "research activities": ["Worked as a full-stack software engineer, and developed microservices for backend apis, frontend application and Extract-Transform-Load pipeline. Developed solutions in multiple languages involving python, go and javascript."]
+      "endDate": "2022-05-22"
     }
   ],
   "awards": [
