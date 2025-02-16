@@ -12,16 +12,16 @@
       "location": "Rochester, New York",
       "area": "Computing and Information Sciences",
       "studyType": "PhD",
-      "startDate": "2022-08-22",
-      "endDate": " "
+      "startDate": "August 2022",
+      "endDate": "present"
     },
     {
       "institution": "Pulchowk Campus, Tribhuvan University",
       "location": "Kathmandu, Nepal",
       "area": "Computer Engineering",
       "studyType": "Undergraduate",
-      "startDate": "2015-11-15",
-      "endDate": "2018-09-10"
+      "startDate": "November 2015",
+      "endDate": "September 2018"
     }
   ],
   "experience": [
@@ -30,7 +30,7 @@
       "position": "Research Assistant",
       "url": "https://www.rit.edu/mining/",
       "startDate": "2022-08-22",
-      "endDate": " ",
+      "endDate": "present",
       "research activities": ["Developed evidential framework to allocate fine-grained evidence for hierarchical novelty detection problem.",
       "Developed state-based framework to capture hierarchical dependencies for the hierarchical novelty detection problem.",
       "Developed Bayesian framework to re-calibrate the vision foundation models fine-tuned using parameter efficient methods.",
@@ -41,9 +41,10 @@
     {
       "name": "Software Engineer",
       "position": "Research Assistant",
+      "url": "https://www.lftechnology.com/",
       "startDate": "2022-09-10",
       "endDate": "2022-05-22",
-      "research activities": "Worked as a full-stack software engineer, and developed microservices for backend apis, frontend application and Extract-Transform-Load pipeline. Developed solutions in multiple languages involving python, go and javascript."
+      "research activities": ["Worked as a full-stack software engineer, and developed microservices for backend apis, frontend application and Extract-Transform-Load pipeline. Developed solutions in multiple languages involving python, go and javascript."]
     }
   ],
   "awards": [
@@ -77,6 +78,5 @@
       "releaseDate": "2024",
       "url": "https://openreview.net/pdf?id=loQCk0qruU"
     }
-  ],
-  "Academic Service": "Served as reviewer on AAAI 2025, CVPR 2025, ICML 2025, ICCV 2025"
+  ]
 }
