@@ -201,8 +201,8 @@ collections:
 
 announcements:
   enabled: true
-  scrollable: true # adds a vertical scroll bar if there are more than 3 news items
-  limit: 3 # leave blank to include all the news in the `_news` folder
+  scrollable: false # adds a vertical scroll bar if there are more than 3 news items
+  limit:  # leave blank to include all the news in the `_news` folder
 
 # -----------------------------------------------------------------------------
 # Jekyll settings
@@ -242,6 +242,9 @@ exclude:
   - _pages/blog.md
   - _pages/dropdown.md
   - _pages/projects.md
+  - _pages/teaching.md
+  - _pages/repositories.md
+  - _pages/profiles.md
   - purgecss.config.js
   - README.md
   - readme_preview/
@@ -633,15 +636,9 @@ jekyll_get_json:
   - data: resume
     json: assets/json/resume.json # it can also be an url
 jsonresume:
-  - basics
-  - work
+  - General Information
   - education
+  - experience
   - publications
-  - projects
-  - volunteer
   - awards
-  - certificates
-  - skills
-  - languages
-  - interests
-  - references
+  - Academic Service
