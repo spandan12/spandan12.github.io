@@ -1,8 +1,8 @@
 ---
 layout: post
-date: December, 2024
+date: March, 2025
 inline: true
 related_posts: false
 ---
 
-I am invited to serve as a reviewer in CVPR 2025. :sparkles:
+Delivered an advanced PhD student talk in CHAI seminar series, at RIT.

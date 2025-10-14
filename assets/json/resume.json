@@ -69,7 +69,13 @@
       "name": "Be Confident in What You Know: Bayesian Parameter Efficient Fine- Tuning of Vision Foundation Models",
       "publisher": "Neurips",
       "releaseDate": "2024",
-      "url": "https://openreview.net/pdf?id=loQCk0qruU"
+      "url": "https://dl.acm.org/doi/10.5555/3737916.3739340"
+    },
+    {
+      "name": "Learning State-Based Node Representations from a Class Hierarchy for Fine-Grained Open-Set Detection",
+      "publisher": "ICML",
+      "releaseDate": "2025",
+      "url": "https://openreview.net/forum?id=NO7egHvBHa"
     }
   ]
 }
