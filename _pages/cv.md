@@ -4,7 +4,7 @@ permalink: /cv/
 title: cv
 nav: true
 nav_order: 5
-cv_pdf: SpandanCVFeb2025.pdf
+cv_pdf: SpandanCVOctober2025.pdf
 toc:
   sidebar: left
 ---

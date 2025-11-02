@@ -23,21 +23,21 @@
         - Developed data pipelines for collecting data, cleaning, pre-processing, and extracting features from time-series modeling.
         - Developed regresion model for facial landmark detection.
 
-- title: Experience
-  type: time_table
-  contents:
-    - title: Software Engineer
-      institution: Leapfrog Technology
-      year: 2019-2022
-      description:
-        - Worked as a full-stack software engineer for web-application and data pipelines.
-        - Developed solutions in multiple languages involving python, go and javascript.
+# - title: Experience
+#   type: time_table
+#   contents:
+#     - title: Software Engineer
+#       institution: Leapfrog Technology
+#       year: 2019-2022
+#       description:
+#         - Worked as a full-stack software engineer for web-application and data pipelines.
+#         - Developed solutions in multiple languages involving python, go and javascript.
 
-    - title: Software Intern
-      institution: UBL R&D Center
-      year: 2019
-      description:
-        - Designed the database for a education based application.
+#     - title: Software Intern
+#       institution: UBL R&D Center
+#       year: 2019
+#       description:
+#         - Designed the database for a education based application.
 
 - title: Honors and Awards
   type: time_table
