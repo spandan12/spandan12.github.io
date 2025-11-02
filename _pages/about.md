@@ -4,7 +4,8 @@ title: About
 permalink: /
 subtitle: <a href='#'>Ph.D. Student</a>. Rochester Institute of Technology, New York <br>
 
-profile: false
+profile:
+  false
 
   # align: right
   # image: prof_pic.jpg
@@ -19,5 +20,5 @@ I'm a 4th year Ph.D. Student in Computer Science working with [Prof. Qi Yu](http
 
 ### Research Interests
 
-My research interests include uncertainty quantification, openset detection and calibration in machine learning models. 
+My research interests include uncertainty quantification, openset detection and calibration in machine learning models.
 I am working with ML models ranging from vision to Large Language Models.
